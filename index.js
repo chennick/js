@@ -1,6 +1,3 @@
-$(document).ready(function() {
-
-});
 function clickCheckbox(element){
   if(element.checked = true){
   alert(element.id);
